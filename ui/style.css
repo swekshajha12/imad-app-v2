@@ -30,8 +30,10 @@ body {
 }
   
  .today{
+     max-width: 800px;
      font-family:sant-serif;
      color:black;
      margin:0 auto;
-     max-width: 800px;
+ 
+     
  }   
