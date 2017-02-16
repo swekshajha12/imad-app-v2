@@ -20,3 +20,18 @@ body {
     height: 200px;
 }
 
+  
+
+.fullon{
+    max-width: 800px;
+    font-family: sant-serif;
+    color: blue;
+    margin:0 auto;
+}
+  
+ .today{
+     font-family:sant-serif;
+     color:black;
+     margin:0 auto;
+     max-width: 800px;
+ }   
